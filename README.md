@@ -2,7 +2,7 @@
 
 Submitted by: **Jashan Shah**
 
-**FitBit** is a health metrics app that allows users to track ... [TODO] 
+**FitBit** is a health metrics app that allows users to track the amount of calories they intake. 
 
 Time spent: **11** hours spent in total
 
@@ -30,10 +30,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![20221011_003914_edited](https://user-images.githubusercontent.com/74270386/195007445-3ccf42ce-41e8-4cd4-a3e7-97768af23906.gif)
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![20221011_003914_edited](https://user-images.githubusercontent.com/74270386/195007445-3ccf42ce-41e8-4cd4-a3e7-97768af23906.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
@@ -43,7 +43,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did not know how to clear the database. I did this by uninstalling the app.
 
 ## License
 
